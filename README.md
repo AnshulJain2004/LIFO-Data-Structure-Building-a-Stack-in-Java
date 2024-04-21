@@ -1,1 +1,1 @@
-# LIFO-Data-Structure-Building-a-Stack-in-Java
+# LIFO Data Structure: Building a Stack in Java
